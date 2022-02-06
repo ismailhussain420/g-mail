@@ -1,0 +1,162 @@
+/* css start */
+*{
+    margin:0px;
+    padding:0px
+}
+body{
+    font-family:;
+    font-size:14px;
+    line-height:24px
+}
+h1,h2,h3,h4,h5,h6{
+    font-family:;
+}
+a,a:hover{
+    text-decoration :none
+}
+
+
+
+
+.sidebars .col-lg-2{
+    box-shadow: 1px -1px 0px 1px #cbcac3;
+    height:100vh;
+    padding: 20px;
+}
+
+
+#sidebar .sidebar-header img{
+    width:100px
+}
+
+
+#sidebar ul li{
+    padding:15px 0px
+}
+#sidebar ul li:hover{
+    background: #CCCCCC;
+    padding:15px
+}
+
+
+#sidebar ul .active a{
+    color: black;
+    font-size: 20px;
+
+}
+#sidebar ul .active a i{
+    margin-left: 5px;
+}
+
+
+#sidebar ul .inbox a{
+    color: black;
+    font-size: 16px;
+
+}
+#sidebar ul .inbox a i{
+
+    margin-right: 5px;
+
+
+}
+
+
+#sidebar ul .sent a{
+    color: black;
+    font-size: 16px;
+
+}
+#sidebar ul .sent a i{
+
+    margin-right: 5px;
+
+
+}
+
+
+
+#sidebar ul .draft a{
+    color: black;
+    font-size: 16px;
+
+}
+#sidebar ul .draft a i{
+
+    margin-right: 5px;
+
+
+}
+
+
+#sidebar ul .trash a{
+    color: black;
+    font-size: 16px;
+
+}
+#sidebar ul .trash a i{
+
+    margin-right: 5px;
+
+
+}
+
+/* profile */
+ .col-lg-10 .profile{
+    padding: 40px 0px;
+    border-bottom: 1px solid #e3e2e2;
+
+
+}
+ .col-lg-10 .profile img{
+    width: 300px;
+}
+ .col-lg-10 .profile p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 60px;
+    color: gray;
+
+}
+ .col-lg-10 .profile i{
+    margin-right: 5px;
+}
+
+.col-lg-10 .profile h4{
+    font-size: 20px;
+    font-weight: 600;
+
+
+} 
+.sidebars .col-lg-10 .profile .btn{
+    background: transparent;
+    font-size: 18px;
+    padding: 5px 15px;
+    border:none;
+    margin-top: 15px;
+
+}
+.sidebars .col-lg-10 .profile .btn:hover,.sidebars .col-lg-10 .profile .btn:active{
+
+    background:#bdb5b5;
+    border:none
+}
+.sidebars .col-lg-10 .profile i{
+    margin-left:10px
+
+
+
+}
+
+
+/* msg */
+.sidebars .col-lg-10 .msg {
+    width:100%;
+    padding:40px 0px
+
+}
+.sidebars .col-lg-10 .msg p{
+    font-size: 16px;
+    font-weight: 400;
+
+}
